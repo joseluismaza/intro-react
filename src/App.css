@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+button {
+  margin: 10px;
+}
+
+.restar {
+  background-color: steelblue;
+  color: black;
+  border-color: white;
+}
+
+.sumar {
+  background-color: bisque;
+  color: black;
+  border-color: white;
+}

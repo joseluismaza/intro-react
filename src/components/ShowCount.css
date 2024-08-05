@@ -1,0 +1,9 @@
+.show-count {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.show-count h1 {
+  font-size: 2em;
+  color: white;
+}
